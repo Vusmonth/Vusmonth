@@ -5,7 +5,11 @@
 
 ###
 
-<p align="left">Meu nome é Arthur, sou entusiasta em tecnologia e estudo sobre programação desde os 15 anos de idade quando descobri uma vontade de aprender a criar jogos, o que me forçou a aprender Unity e C# , depois  de uns anos, migrei pro front-end utilizando React e React Native por volta de 2019, continuei me aprofundando Javascript e me tronei programador Fullstack.<br>Atualmente, me vejo migrando novamente para o C# e .Net Core devido as novas tecnologias que o framework tem oferecido.</p>
+<p align="left">Desenvolvedor Fullstack
+Conhecimento em React.js, React Native, Typescript, Styled Components, Tailwind, Node.js, Express, Firebase, MongoDB e MySQL.
+
+Meu nome é Arthur, sou entusiasta em tecnologia e estudo sobre programação desde os 15 anos de idade quando descobri uma vontade de criar jogos, o que me forçou a aprender Unity e C# , depois de uns anos, migrei pro front-end utilizando React e React Native por volta de 2019, continuei me aprofundando Javascript e me tronei programador Fullstack, que é a área que eu atuo atualmente.
+Atualmente, me vejo migrando novamente para o C# e .Net Core devido as novas tecnologias que o framework tem oferecido.</p>
 
 ###
 
