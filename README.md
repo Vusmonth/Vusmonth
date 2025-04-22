@@ -5,70 +5,9 @@
 
 ###
 
-<p align="left">Desenvolvedor Fullstack
-Conhecimento em React.js, React Native, Typescript, Styled Components, Tailwind, Node.js, Express, Firebase, MongoDB e MySQL.
-
-Meu nome é Arthur, sou entusiasta em tecnologia e estudo sobre programação desde os 15 anos de idade quando descobri uma vontade de criar jogos, o que me forçou a aprender Unity e C# , depois de uns anos, migrei pro front-end utilizando React e React Native por volta de 2019, continuei me aprofundando Javascript e me tronei programador Fullstack, que é a área que eu atuo atualmente.
-Atualmente, me vejo migrando novamente para o C# e .Net Core devido as novas tecnologias que o framework tem oferecido.</p>
-
-###
-
-<h3 align="left">Minhas tecnologias:</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-* HTML 5
-* CSS 3
-* Javascript
-* Typescript
-* React e React Native
-* C#
-* .Net Core
-* MSSQL / Sql Server
-* MySQL
-* Node.js
-* Firebase
-* NestJs
-* Next.js
-* MongoDB
-* Socket.IO
-* Tailwind
+My name is Arthur Martins, I'm a Senior Developer in a fintech.
+<br>
+My stacks: .NET, ASP.NET Core, MAUI, Blazor, Docker, React.js, React Native, Node.js, Express, Firebase, MongoDB and PostgreSQL.
 
 ###
 
