@@ -5,7 +5,7 @@
 
 ###
 
-My name is Arthur Martins, I'm a Senior Developer in a fintech.
+My name is Arthur Martins, I'm a Senior Developer in a insurance company.
 <br>
 My stacks: .NET, ASP.NET Core, MAUI, Blazor, Docker, React.js, React Native, Node.js, Express, Firebase, MongoDB and PostgreSQL.
 
